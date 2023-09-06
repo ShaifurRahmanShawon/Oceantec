@@ -1,2 +1,2 @@
 # Oceantec
- It is a company demo profile which is at developing state
+It's a Website for a company called Oceantec, which is in a developing state.
