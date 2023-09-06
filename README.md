@@ -1,2 +1,3 @@
 # Oceantec
- It is a company demo profile which is at developing state
+ It's a Profile for a company called Oceantec, which is in a developing state
+ Website link: https://shaifurrahmanshawon.github.io/Oceantec/
